@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BaseAR.unity
     guid: 2e98342fffdb80463b962f4260f4fd61
+  - enabled: 1
+    path: Assets/Scenes/ImageTracking.unity
+    guid: 32b5b1ddfad917451816aa31c0fde678
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4d76203da5f2492f7aa57e6b4ccc6912, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 22a5fdf3588f8d107a9693f0e19ca7b4, type: 2}
