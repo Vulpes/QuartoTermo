@@ -13,11 +13,11 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-39753
+33009
 Successfully changed project path to: /home/vulpes/Documentos/Projetos/QuartoTermo
 /home/vulpes/Documentos/Projetos/QuartoTermo
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 31,21 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 34,27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
 [Subsystems] Discovering subsystems at path /home/vulpes/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
@@ -37,45 +37,45 @@ object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_de
 ogram5 GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap_triangles GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_o
 bject GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory G
 L_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
-OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle -281817336
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1841304408
 Initialize mono
 Mono path[0] = '/home/vulpes/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
 Mono path[1] = '/home/vulpes/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/home/vulpes/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56899
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56735
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /home/vulpes/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /home/vulpes/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0,001223 seconds.
+Registered in 0,001140 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 25,92 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 28,15 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1,227 seconds
+- Completed reload, in  1,262 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0,001879 seconds.
+Registered in 0,001831 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 26,78 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 27,35 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0,904 seconds
+- Completed reload, in  0,942 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0,33 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0,36 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 1831 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73,1 MB.
-System memory in use after: 73,1 MB.
+Unloading 1832 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73,2 MB.
+System memory in use after: 73,2 MB.
 
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2266.
-Total: 2,673057 ms (FindLiveObjects: 0,167220 ms CreateObjectMapping: 0,063354 ms MarkObjects: 2,203945 ms  DeleteObjects: 0,237473 ms)
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2267.
+Total: 3,973272 ms (FindLiveObjects: 0,247000 ms CreateObjectMapping: 0,082128 ms MarkObjects: 3,438501 ms  DeleteObjects: 0,204461 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -88,157 +88,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/New Scene.unity
-  artifactKey: Guid(32b5b1ddfad917451816aa31c0fde678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/New Scene.unity using Guid(32b5b1ddfad917451816aa31c0fde678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '421668434f9ee3946ec0b8ce43236ebe') in 0,009226 seconds 
-  Import took 0,012114 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10,178639 seconds.
-  path: Assets/Scenes/ImageTracking.unity
-  artifactKey: Guid(32b5b1ddfad917451816aa31c0fde678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/ImageTracking.unity using Guid(32b5b1ddfad917451816aa31c0fde678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbeef16a364c26374f3611dff37e528c') in 0,000666 seconds 
-  Import took 0,002772 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 48,186273 seconds.
-  path: Assets/Prefab/ImagemReferencia.asset
-  artifactKey: Guid(bd7791f02d7f5eba3875456828723f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/ImagemReferencia.asset using Guid(bd7791f02d7f5eba3875456828723f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8ca44836b26359e90673c0f84f76157') in 0,013643 seconds 
-  Import took 0,015985 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,002751 seconds.
-  path: Assets/Prefab/ImagemReferencia.asset
-  artifactKey: Guid(bd7791f02d7f5eba3875456828723f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/ImagemReferencia.asset using Guid(bd7791f02d7f5eba3875456828723f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8ca44836b26359e90673c0f84f76157') in 0,002807 seconds 
-  Import took 0,004939 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21,928810 seconds.
-  path: Assets/Markers
-  artifactKey: Guid(9f55cb19860eadc07ae1901ca60a1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Markers using Guid(9f55cb19860eadc07ae1901ca60a1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6521b8e3cd84cfb97b4fcff9d5700419') in 0,000647 seconds 
-  Import took 0,002949 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12,380593 seconds.
-  path: Assets/Markers/logoVuforiaQuartoTermo.jpg
-  artifactKey: Guid(5fc54793b14b4c79aa061e6d2e9d502b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Markers/logoVuforiaQuartoTermo.jpg using Guid(5fc54793b14b4c79aa061e6d2e9d502b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ebadccca20d25e95d9862afa3e43c6') in 0,026498 seconds 
-  Import took 0,028839 seconds .
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8d41f74ff95f3c1377867a320cc3adb') in 0,207580 seconds 
+  Import took 0,210724 seconds .
 
 ========================================================================
 Received Prepare
-Registering precompiled user dll's ...
-Registered in 0,001762 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for LinuxStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0,34 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0,802 seconds
-Platform modules already initialized, skipping
-Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0,34 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72,8 MB.
-System memory in use after: 72,8 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2272.
-Total: 2,475178 ms (FindLiveObjects: 0,178792 ms CreateObjectMapping: 0,058307 ms MarkObjects: 2,158121 ms  DeleteObjects: 0,078850 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 47,986995 seconds.
-  path: Assets/Prefab/ImagemReferencia.asset
-  artifactKey: Guid(bd7791f02d7f5eba3875456828723f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/ImagemReferencia.asset using Guid(bd7791f02d7f5eba3875456828723f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26cb082bd1be6ddab66013b3b4d08570') in 0,022889 seconds 
-  Import took 0,025069 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 207,272304 seconds.
-  path: Assets/Markers/logoVuforiaQuartoTermo.jpg
-  artifactKey: Guid(5fc54793b14b4c79aa061e6d2e9d502b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Markers/logoVuforiaQuartoTermo.jpg using Guid(5fc54793b14b4c79aa061e6d2e9d502b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed09d29f2059b01fdf5b7e229f0a4b1') in 0,018173 seconds 
-  Import took 0,020534 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,004163 seconds.
-  path: Assets/Markers/logoVuforiaQuartoTermo.jpg
-  artifactKey: Guid(5fc54793b14b4c79aa061e6d2e9d502b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Markers/logoVuforiaQuartoTermo.jpg using Guid(5fc54793b14b4c79aa061e6d2e9d502b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed09d29f2059b01fdf5b7e229f0a4b1') in 0,008126 seconds 
-  Import took 0,010498 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 84,468712 seconds.
-  path: Assets/Markers/2190272f17ce6ec811bdc27a0983dfa2.png
-  artifactKey: Guid(02f46d92ee9d96d9286a39767851991a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Markers/2190272f17ce6ec811bdc27a0983dfa2.png using Guid(02f46d92ee9d96d9286a39767851991a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd515a88e73b021c4eab8b3876976de75') in 0,053803 seconds 
-  Import took 0,056214 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000159 seconds.
-  path: Assets/Markers/D_NQ_NP_642922-MLB31189970192_062019-W.jpg
-  artifactKey: Guid(bd1edaa39c9e8d9e681e1831c9bfdda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Markers/D_NQ_NP_642922-MLB31189970192_062019-W.jpg using Guid(bd1edaa39c9e8d9e681e1831c9bfdda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b171d561d28374cd2ed0b10d17a154') in 0,018380 seconds 
-  Import took 0,020636 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000103 seconds.
-  path: Assets/Markers/2190272f17ce6ec811bdc27a0983dfa2.png
-  artifactKey: Guid(02f46d92ee9d96d9286a39767851991a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Markers/2190272f17ce6ec811bdc27a0983dfa2.png using Guid(02f46d92ee9d96d9286a39767851991a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd515a88e73b021c4eab8b3876976de75') in 0,049650 seconds 
-  Import took 0,052151 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000168 seconds.
-  path: Assets/Markers/D_NQ_NP_642922-MLB31189970192_062019-W.jpg
-  artifactKey: Guid(bd1edaa39c9e8d9e681e1831c9bfdda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Markers/D_NQ_NP_642922-MLB31189970192_062019-W.jpg using Guid(bd1edaa39c9e8d9e681e1831c9bfdda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b171d561d28374cd2ed0b10d17a154') in 0,015395 seconds 
-  Import took 0,017693 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12,405011 seconds.
-  path: Assets/Prefab/ImagemReferencia.asset
-  artifactKey: Guid(bd7791f02d7f5eba3875456828723f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/ImagemReferencia.asset using Guid(bd7791f02d7f5eba3875456828723f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4573c7029e60f5c286a2a9ad4234aff') in 0,047336 seconds 
-  Import took 0,050011 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2,27 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2,06 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36,7 MB.
-System memory in use after: 36,7 MB.
+System memory in use before: 38,1 MB.
+System memory in use after: 38,2 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2273.
-Total: 3,496258 ms (FindLiveObjects: 0,229161 ms CreateObjectMapping: 0,071013 ms MarkObjects: 3,105396 ms  DeleteObjects: 0,089744 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 3,819413 ms (FindLiveObjects: 0,206391 ms CreateObjectMapping: 0,076867 ms MarkObjects: 3,350467 ms  DeleteObjects: 0,183766 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -251,206 +115,62 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 234,261528 seconds.
-  path: Assets/FBX
-  artifactKey: Guid(09ebfd6db8178f0389daf5525fc65413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX using Guid(09ebfd6db8178f0389daf5525fc65413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899aad96947817fbb63a1ee9a0e6bb92') in 0,000648 seconds 
-  Import took 0,003031 seconds .
+  Time since last request: 526,958591 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28250351cc3bcb8cbe93a01e35725d30') in 0,124851 seconds 
+  Import took 0,127780 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4,653054 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d9d6298d32b1f9a2a3c53128366757') in 0,265940 seconds 
-  Import took 0,268567 seconds .
+  Time since last request: 0,688546 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db6febaf84b3fa921ed3c1446949058c') in 0,123863 seconds 
+  Import took 0,126770 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 233,657227 seconds.
-  path: Assets/FBX/mesaTabuleiro 1.fbx
-  artifactKey: Guid(3c9de9b3eed7600ffb4f423c9dce555a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro 1.fbx using Guid(3c9de9b3eed7600ffb4f423c9dce555a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee675fd19d8a5ea75bfa73415b342e4') in 0,002323 seconds 
-  Import took 0,004614 seconds .
+  Time since last request: 5,189617 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4897794469076b45172411611604e901') in 0,122497 seconds 
+  Import took 0,125419 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 24,338233 seconds.
-  path: Assets/FBX/mesaTabuleiro 1.fbx
-  artifactKey: Guid(3c9de9b3eed7600ffb4f423c9dce555a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro 1.fbx using Guid(3c9de9b3eed7600ffb4f423c9dce555a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d8206f155fdbe39b7544fb88bdb128') in 0,001551 seconds 
-  Import took 0,003903 seconds .
+  Time since last request: 14,867240 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9701911d126a92267a0543c41747ff') in 0,118745 seconds 
+  Import took 0,121392 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,007848 seconds.
-  path: Assets/FBX/mesaTabuleiro 1.fbx
-  artifactKey: Guid(3c9de9b3eed7600ffb4f423c9dce555a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro 1.fbx using Guid(3c9de9b3eed7600ffb4f423c9dce555a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d8206f155fdbe39b7544fb88bdb128') in 0,001478 seconds 
-  Import took 0,003973 seconds .
+  Time since last request: 1,709886 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff1b2db1ef81caf14340e5aaa347187') in 0,119162 seconds 
+  Import took 0,121980 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 16,914341 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d354f0ec5c3bf234804d2a74fa9841d') in 0,001787 seconds 
-  Import took 0,004406 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 31,865740 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aefdd9c1348d97a441d58e42d830358e') in 0,026762 seconds 
-  Import took 0,029284 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8,838981 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0dad787af0ae3ffa204b000912fb9a') in 0,011162 seconds 
-  Import took 0,013716 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,008341 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0dad787af0ae3ffa204b000912fb9a') in 0,009015 seconds 
-  Import took 0,011596 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27,555820 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6146cd442ce611a9139922996cb33b0b') in 0,010669 seconds 
-  Import took 0,013360 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,019015 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6146cd442ce611a9139922996cb33b0b') in 0,018390 seconds 
-  Import took 0,021200 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2,866681 seconds.
-  path: Assets/FBX/Materials
-  artifactKey: Guid(8c29b1de850801b9f8f930f10d800750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials using Guid(8c29b1de850801b9f8f930f10d800750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4f9cc6ef780650a3b5a15532ae399b') in 0,000429 seconds 
-  Import took 0,002898 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,081258 seconds.
-  path: Assets/FBX/Materials/Brown Woodplanks.mat
-  artifactKey: Guid(13bff6780820c4f8da09533e1f1935ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/Brown Woodplanks.mat using Guid(13bff6780820c4f8da09533e1f1935ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7760950b48d115c53f8592d6e036f01') in 0,004660 seconds 
-  Import took 0,007173 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000190 seconds.
-  path: Assets/FBX/Materials/GWC Gilted Boxing Material_BaseColor.mat
-  artifactKey: Guid(3f1b8c5b0cc848d04b2ff9e92a129740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/GWC Gilted Boxing Material_BaseColor.mat using Guid(3f1b8c5b0cc848d04b2ff9e92a129740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea891a71277a87864f7ef75b662400c') in 0,004406 seconds 
-  Import took 0,006640 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000137 seconds.
-  path: Assets/FBX/Materials/woodplanks4K diffuse.mat
-  artifactKey: Guid(03d0ccc844899f84ca0d5b5ca3d753be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/woodplanks4K diffuse.mat using Guid(03d0ccc844899f84ca0d5b5ca3d753be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed18800ba1c5ba2ea4ed78b781c29f7b') in 0,004055 seconds 
-  Import took 0,006388 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000186 seconds.
-  path: Assets/FBX/Materials/Gilt Wood and Decorative Panelling.mat
-  artifactKey: Guid(6cefe76fb9336031b833d48fb14511b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/Gilt Wood and Decorative Panelling.mat using Guid(6cefe76fb9336031b833d48fb14511b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a2084e8a179d8dc7eab15a0a8ae0a0') in 0,004988 seconds 
-  Import took 0,007429 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000170 seconds.
-  path: Assets/FBX/Materials/Wood Wall Slits Variation 2.mat
-  artifactKey: Guid(4675cc435e301cb25be1d382aa5ae8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/Wood Wall Slits Variation 2.mat using Guid(4675cc435e301cb25be1d382aa5ae8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a2eb9591d2fc50877a91b12d0313dd8') in 0,004322 seconds 
-  Import took 0,006705 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000135 seconds.
-  path: Assets/FBX/Materials/Gold 02.mat
-  artifactKey: Guid(63b92e491dd6b6cf8b61ec2aa03fb7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/Gold 02.mat using Guid(63b92e491dd6b6cf8b61ec2aa03fb7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a20a15897474c62f47a3035ee7c3ccb') in 0,005553 seconds 
-  Import took 0,007786 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000160 seconds.
-  path: Assets/FBX/Materials/Polygons Tiles.mat
-  artifactKey: Guid(2d30328ee8dd9e5f0bdafb7ef559ba9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/Polygons Tiles.mat using Guid(2d30328ee8dd9e5f0bdafb7ef559ba9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bf59366194a5707f1df292dbca5039e') in 0,003945 seconds 
-  Import took 0,006350 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000095 seconds.
-  path: Assets/FBX/Materials/Wood Wall Slits Variation 3.mat
-  artifactKey: Guid(85833fe32d023c7daa94e8984f498b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/Wood Wall Slits Variation 3.mat using Guid(85833fe32d023c7daa94e8984f498b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f344fff95185ed0349f9c0edd02515fd') in 0,005262 seconds 
-  Import took 0,007688 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000173 seconds.
-  path: Assets/FBX/Materials/Polygons Tiles 1.mat
-  artifactKey: Guid(56430bfaf2c9153deab3b9de78851bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/Polygons Tiles 1.mat using Guid(56430bfaf2c9153deab3b9de78851bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bcf459eaa7e43452de93443d44bd137') in 0,004646 seconds 
-  Import took 0,007027 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000180 seconds.
-  path: Assets/FBX/Materials/Gold 01.mat
-  artifactKey: Guid(3653c0e75222539b19c6c9ac91aabbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/Gold 01.mat using Guid(3653c0e75222539b19c6c9ac91aabbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3cfe9f3feab749e4fae69d6133ae887') in 0,006291 seconds 
-  Import took 0,008664 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 55,658523 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04c9dce3d45798f9f7f5594397355f3') in 0,007506 seconds 
-  Import took 0,010818 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,009627 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04c9dce3d45798f9f7f5594397355f3') in 0,005843 seconds 
-  Import took 0,008459 seconds .
+  Time since last request: 2,295736 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bf421a48838b3592d258c4e67166d7a') in 0,119292 seconds 
+  Import took 0,121984 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 2,19 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2,11 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,7 MB.
-System memory in use after: 38,7 MB.
+System memory in use before: 38,0 MB.
+System memory in use after: 38,1 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2315.
-Total: 2,764978 ms (FindLiveObjects: 0,177845 ms CreateObjectMapping: 0,059367 ms MarkObjects: 2,462464 ms  DeleteObjects: 0,064570 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 3,213523 ms (FindLiveObjects: 0,180905 ms CreateObjectMapping: 0,069367 ms MarkObjects: 2,884682 ms  DeleteObjects: 0,077693 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -463,198 +183,30 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 466,184299 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb839fef46c05dda49590e6cc1cec79') in 0,006227 seconds 
-  Import took 0,008766 seconds .
+  Time since last request: 372,649579 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059c59e967a32de5f8a74843328fbecd') in 0,116615 seconds 
+  Import took 0,119195 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,027072 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb839fef46c05dda49590e6cc1cec79') in 0,009547 seconds 
-  Import took 0,012180 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3,834126 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ddcf23400e97b25c4259e8938a5047') in 0,006296 seconds 
-  Import took 0,009252 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,028090 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ddcf23400e97b25c4259e8938a5047') in 0,009077 seconds 
-  Import took 0,011710 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1,360110 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0174a927e733d05e3fdc2ece4378c2') in 0,006475 seconds 
-  Import took 0,008976 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,025702 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0174a927e733d05e3fdc2ece4378c2') in 0,006410 seconds 
-  Import took 0,009002 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15,913378 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d2352b3895f9ee2cb19a76920e80a22') in 0,005422 seconds 
-  Import took 0,008271 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15,129125 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c4e28c5c7bab9dec2943876c0790eb') in 0,005807 seconds 
-  Import took 0,008681 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11,230752 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70236aa3c07a7ac0ed5bd54c3c36d3e') in 0,005698 seconds 
-  Import took 0,008321 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,823922 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25762ae12d81ddc1f0b2af78bbec1fb5') in 0,006234 seconds 
-  Import took 0,009096 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5,077713 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8413c358b00a3d384f5be1d71142a8c5') in 0,006241 seconds 
-  Import took 0,009062 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1,424206 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59e9316c18b672fb84c70c4d046d419') in 0,009372 seconds 
-  Import took 0,011814 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 65,613381 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c00770b5b506f0904104c7993b0441') in 0,009512 seconds 
-  Import took 0,012008 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,007715 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c00770b5b506f0904104c7993b0441') in 0,008997 seconds 
-  Import took 0,011572 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4,549249 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6587482d0a68d30b05b336e857a9e8f8') in 0,009402 seconds 
-  Import took 0,011936 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,012490 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6587482d0a68d30b05b336e857a9e8f8') in 0,008430 seconds 
-  Import took 0,011089 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5,207618 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70cb654033cb927ba3a03099a312308') in 0,009002 seconds 
-  Import took 0,011722 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,009127 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70cb654033cb927ba3a03099a312308') in 0,008673 seconds 
-  Import took 0,011533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9,312953 seconds.
-  path: Assets/FBX/Materials/Brown Woodplanks.mat
-  artifactKey: Guid(13bff6780820c4f8da09533e1f1935ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/Brown Woodplanks.mat using Guid(13bff6780820c4f8da09533e1f1935ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd59a56dafb4732f75e2aca6797a2abc2') in 0,005165 seconds 
-  Import took 0,009621 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000189 seconds.
-  path: Assets/FBX/Materials/GWC Gilted Boxing Material_BaseColor.mat
-  artifactKey: Guid(3f1b8c5b0cc848d04b2ff9e92a129740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/GWC Gilted Boxing Material_BaseColor.mat using Guid(3f1b8c5b0cc848d04b2ff9e92a129740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9425fb771b557fc0b639a743a2030070') in 0,004988 seconds 
-  Import took 0,007205 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000172 seconds.
-  path: Assets/FBX/Materials/woodplanks4K diffuse.mat
-  artifactKey: Guid(03d0ccc844899f84ca0d5b5ca3d753be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/woodplanks4K diffuse.mat using Guid(03d0ccc844899f84ca0d5b5ca3d753be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '576e4eaa4052b38c8f9607d8ace74b9f') in 0,004023 seconds 
-  Import took 0,006342 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000139 seconds.
-  path: Assets/FBX/Materials/Gilt Wood and Decorative Panelling.mat
-  artifactKey: Guid(6cefe76fb9336031b833d48fb14511b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Materials/Gilt Wood and Decorative Panelling.mat using Guid(6cefe76fb9336031b833d48fb14511b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c81ad731bdd8f7f635ef71619beedc') in 0,004540 seconds 
-  Import took 0,006978 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 30,700261 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036884eb24084fff2cb326778528a0a9') in 0,004959 seconds 
-  Import took 0,007419 seconds .
+  Time since last request: 2,600443 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d0f5e947c022e26a003a7dd97b2201d') in 0,117930 seconds 
+  Import took 0,120632 seconds .
 
 ========================================================================
 Received Prepare
 Refreshing native plugins compatible for Editor in 2,08 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,7 MB.
-System memory in use after: 38,8 MB.
+System memory in use before: 38,1 MB.
+System memory in use after: 38,1 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2315.
-Total: 3,100755 ms (FindLiveObjects: 0,191720 ms CreateObjectMapping: 0,063002 ms MarkObjects: 2,763560 ms  DeleteObjects: 0,081765 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 2,757641 ms (FindLiveObjects: 0,157628 ms CreateObjectMapping: 0,053257 ms MarkObjects: 2,487615 ms  DeleteObjects: 0,058560 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -667,41 +219,69 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 84,859807 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84590a3977e2622149b1675376734007') in 0,007670 seconds 
-  Import took 0,010573 seconds .
+  Time since last request: 108,503913 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec68e33c0da5bfcec6cd18518567e98') in 0,119013 seconds 
+  Import took 0,121784 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,1 MB.
+System memory in use after: 38,1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 3,289971 ms (FindLiveObjects: 0,193263 ms CreateObjectMapping: 0,060028 ms MarkObjects: 2,917239 ms  DeleteObjects: 0,118314 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 231,071375 seconds.
+  path: Assets/Scripts/RotatePrefab.cs
+  artifactKey: Guid(8f7d15c7b72e38482a3ed741d08253ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RotatePrefab.cs using Guid(8f7d15c7b72e38482a3ed741d08253ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02aef4ec5f92ae8c13a0c35c584bd1b') in 0,000805 seconds 
+  Import took 0,003967 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,025149 seconds.
-  path: Assets/Prefab/mesaTabuleiro Variant.prefab
-  artifactKey: Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro Variant.prefab using Guid(65aa91c48710ce4bbb760e5c450209a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84590a3977e2622149b1675376734007') in 0,005466 seconds 
-  Import took 0,008111 seconds .
+  Time since last request: 0,000333 seconds.
+  path: Assets/Scripts/RotatePrefab.cs
+  artifactKey: Guid(8f7d15c7b72e38482a3ed741d08253ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RotatePrefab.cs using Guid(8f7d15c7b72e38482a3ed741d08253ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02aef4ec5f92ae8c13a0c35c584bd1b') in 0,000537 seconds 
+  Import took 0,002901 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0,001729 seconds.
+Registered in 0,002083 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0,38 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0,816 seconds
+- Completed reload, in  0,804 seconds
 Platform modules already initialized, skipping
 Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0,34 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0,42 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74,5 MB.
-System memory in use after: 74,5 MB.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74,1 MB.
+System memory in use after: 74,1 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2319.
-Total: 2,330382 ms (FindLiveObjects: 0,149951 ms CreateObjectMapping: 0,046664 ms MarkObjects: 2,053293 ms  DeleteObjects: 0,079383 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2279.
+Total: 3,070028 ms (FindLiveObjects: 0,274982 ms CreateObjectMapping: 0,082306 ms MarkObjects: 2,624911 ms  DeleteObjects: 0,085848 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -714,426 +294,34 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2,24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,3 MB.
-System memory in use after: 38,4 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2319.
-Total: 2,528168 ms (FindLiveObjects: 0,166261 ms CreateObjectMapping: 0,059955 ms MarkObjects: 2,221871 ms  DeleteObjects: 0,079496 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
 Received Import Request.
-  Time since last request: 213,983069 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d1b0a84e8726438210b5457c28e5c21') in 0,089341 seconds 
-  Import took 0,091934 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21,368158 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a2bcfa1623a8a174ac1f897c143b66') in 0,278814 seconds 
-  Import took 0,282181 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21,532831 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82bc7132fe612188aed9554f534b7b22') in 0,157582 seconds 
-  Import took 0,160798 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2,850456 seconds.
-  path: Assets/FBX/materials
-  artifactKey: Guid(8c29b1de850801b9f8f930f10d800750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/materials using Guid(8c29b1de850801b9f8f930f10d800750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca02e9f982457fb18ecbe0d0fb213511') in 0,000699 seconds 
-  Import took 0,002983 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,113357 seconds.
-  path: Assets/FBX/materials/Brown Woodplanks.mat
-  artifactKey: Guid(13bff6780820c4f8da09533e1f1935ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/materials/Brown Woodplanks.mat using Guid(13bff6780820c4f8da09533e1f1935ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fa2224ea98a8d09e5693d9f7a8188d0') in 0,074770 seconds 
-  Import took 0,078372 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000191 seconds.
-  path: Assets/FBX/materials/Gilt Wood and Decorative Panelling.mat
-  artifactKey: Guid(6cefe76fb9336031b833d48fb14511b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/materials/Gilt Wood and Decorative Panelling.mat using Guid(6cefe76fb9336031b833d48fb14511b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a9cc2d9d72cfc0f0ec3ee7eb06f418') in 0,060381 seconds 
-  Import took 0,062947 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5,354027 seconds.
-  path: Assets/FBX/textures
-  artifactKey: Guid(689ed5af7e242fcd58fa664309564535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/textures using Guid(689ed5af7e242fcd58fa664309564535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a3327e0c99185c8750a058b00ee9bf') in 0,001525 seconds 
-  Import took 0,006055 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,052227 seconds.
-  path: Assets/FBX/textures/GWC Gilted Boxing Material_BaseColor.jpg
-  artifactKey: Guid(16bc0ca3b601d6bebb866e7d769a3bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/textures/GWC Gilted Boxing Material_BaseColor.jpg using Guid(16bc0ca3b601d6bebb866e7d769a3bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972737b354f5c7d3fec79a3ff2dfa1da') in 0,060238 seconds 
-  Import took 0,063118 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000341 seconds.
-  path: Assets/FBX/textures/woodplanks4K roughness.jpg
-  artifactKey: Guid(913122559a7f785cba8255c97bc9e221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/textures/woodplanks4K roughness.jpg using Guid(913122559a7f785cba8255c97bc9e221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948c119fdd4a242fd215de89c0b5fd90') in 0,046766 seconds 
-  Import took 0,048828 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000189 seconds.
-  path: Assets/FBX/textures/woodplanks4K diffuse.jpg
-  artifactKey: Guid(de58c1bd34baa0a429616317ed9986de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/textures/woodplanks4K diffuse.jpg using Guid(de58c1bd34baa0a429616317ed9986de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70274811cf82e0809e6c64d2dc58827') in 0,046754 seconds 
-  Import took 0,048881 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000183 seconds.
-  path: Assets/FBX/textures/Wood_Parquet_02_metallic.jpg
-  artifactKey: Guid(9964e3d7f7a44d333abac5ed96b09945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/textures/Wood_Parquet_02_metallic.jpg using Guid(9964e3d7f7a44d333abac5ed96b09945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c38998c70ee164b5b3ba4f7893b4ca4') in 0,045444 seconds 
-  Import took 0,047615 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000192 seconds.
-  path: Assets/FBX/textures/GWC Gilted Boxing Material_Metallic.jpg
-  artifactKey: Guid(33af41362705970e6bd5c3407443606c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/textures/GWC Gilted Boxing Material_Metallic.jpg using Guid(33af41362705970e6bd5c3407443606c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac3b5c8cce96b6c10916ce0a61f9fca') in 0,047406 seconds 
-  Import took 0,049539 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000190 seconds.
-  path: Assets/FBX/textures/woodplanks4K normal.jpg
-  artifactKey: Guid(37a5462dfc3ab2dcebcba6c04027565a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/textures/woodplanks4K normal.jpg using Guid(37a5462dfc3ab2dcebcba6c04027565a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b63f9347bae04f1fc8bbba33f63b35d') in 0,012980 seconds 
-  Import took 0,015365 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000190 seconds.
-  path: Assets/FBX/textures/GWC Gilted Boxing Material_Metallic.jpg
-  artifactKey: Guid(33af41362705970e6bd5c3407443606c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/textures/GWC Gilted Boxing Material_Metallic.jpg using Guid(33af41362705970e6bd5c3407443606c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac3b5c8cce96b6c10916ce0a61f9fca') in 0,046330 seconds 
-  Import took 0,048554 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000168 seconds.
-  path: Assets/FBX/textures/GWC Gilted Boxing Material_Normal.jpg
-  artifactKey: Guid(6db87020421b7d825ac84eec27d37b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/textures/GWC Gilted Boxing Material_Normal.jpg using Guid(6db87020421b7d825ac84eec27d37b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6412d126bee915e62040cb5dcc48d7c8') in 0,013161 seconds 
-  Import took 0,015327 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000197 seconds.
-  path: Assets/FBX/textures/Wood Wall Slits Var02_metallic.jpeg
-  artifactKey: Guid(9a850d706e79b1294a2a278753c5ea8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/textures/Wood Wall Slits Var02_metallic.jpeg using Guid(9a850d706e79b1294a2a278753c5ea8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009fcac6af7a6b1e90be664ddc9aa93f') in 0,045151 seconds 
-  Import took 0,047450 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 41,939115 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b03f56e0bf51c420511a9deb28a9eae') in 0,142550 seconds 
-  Import took 0,145770 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16,163044 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd92716e6a5e5e3cc89e083692a5d11') in 0,127649 seconds 
-  Import took 0,130845 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2,04 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,9 MB.
-System memory in use after: 39,0 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2320.
-Total: 3,158006 ms (FindLiveObjects: 0,191991 ms CreateObjectMapping: 0,064144 ms MarkObjects: 2,796287 ms  DeleteObjects: 0,104587 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 226,343769 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47185366e8eba1763ccae76c6643d71f') in 0,039086 seconds 
-  Import took 0,041875 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 30,934388 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab756c7cdf8514bd001e9addb8e8e5fe') in 0,024579 seconds 
-  Import took 0,027142 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12,032040 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9841a25842d7ccafab80e6a770f22657') in 0,031481 seconds 
-  Import took 0,034049 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,024044 seconds.
-  path: Assets/FBX/Brown Woodplanks.mat
-  artifactKey: Guid(90f8684c39890b3cd95d4d06cd07eab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Brown Woodplanks.mat using Guid(90f8684c39890b3cd95d4d06cd07eab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ff39c56330a7db3ae117c9d35f7e30') in 0,005746 seconds 
-  Import took 0,008422 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000193 seconds.
-  path: Assets/FBX/Gold 01.mat
-  artifactKey: Guid(70f877f1024793b99a1c5123d4e14d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Gold 01.mat using Guid(70f877f1024793b99a1c5123d4e14d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7226f6d346de0180e772ae79d4c9ee') in 0,004532 seconds 
-  Import took 0,006853 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000201 seconds.
-  path: Assets/FBX/Wood Wall Slits Variation 2.mat
-  artifactKey: Guid(550be5bcc9c2804dfa9b1cdfe92c48d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Wood Wall Slits Variation 2.mat using Guid(550be5bcc9c2804dfa9b1cdfe92c48d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6ee0d5f0ff0aaaa31a12b25ef88862') in 0,011371 seconds 
-  Import took 0,013713 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000156 seconds.
-  path: Assets/FBX/Brown Woodplanks.mat
-  artifactKey: Guid(90f8684c39890b3cd95d4d06cd07eab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Brown Woodplanks.mat using Guid(90f8684c39890b3cd95d4d06cd07eab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ff39c56330a7db3ae117c9d35f7e30') in 0,008858 seconds 
-  Import took 0,011160 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000193 seconds.
-  path: Assets/FBX/Gilt Wood and Decorative Panelling.mat
-  artifactKey: Guid(6e1aa27e1b741d6aabad1fd53a4d913a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Gilt Wood and Decorative Panelling.mat using Guid(6e1aa27e1b741d6aabad1fd53a4d913a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273b3cfbcb83ac7dd764b57a596e650a') in 0,005228 seconds 
-  Import took 0,007746 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000188 seconds.
-  path: Assets/FBX/Polygons Tiles.mat
-  artifactKey: Guid(e516a68241f068c928ad4dc624c10ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Polygons Tiles.mat using Guid(e516a68241f068c928ad4dc624c10ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc00f13e92a30acd99982d198807bab9') in 0,004524 seconds 
-  Import took 0,006906 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,011547 seconds.
-  path: Assets/FBX/Polygons Tiles.mat
-  artifactKey: Guid(e516a68241f068c928ad4dc624c10ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Polygons Tiles.mat using Guid(e516a68241f068c928ad4dc624c10ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc00f13e92a30acd99982d198807bab9') in 0,005376 seconds 
-  Import took 0,007988 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15,889693 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a15164f0ba449b673e72ac2f07ec75') in 0,025825 seconds 
-  Import took 0,028384 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,035563 seconds.
-  path: Assets/FBX/GWC Gilted Boxing Material_BaseColor.jpg
-  artifactKey: Guid(c6810280bf59e948fbd59ffc00d5ddab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/GWC Gilted Boxing Material_BaseColor.jpg using Guid(c6810280bf59e948fbd59ffc00d5ddab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8a246327269b98131fcc0375f1aeece') in 0,054139 seconds 
-  Import took 0,056690 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000190 seconds.
-  path: Assets/FBX/woodplanks4K normal.jpg
-  artifactKey: Guid(a5e315375bd46b8a1a893409a882fb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/woodplanks4K normal.jpg using Guid(a5e315375bd46b8a1a893409a882fb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7777b2a6d0007dd220456757fce0713') in 0,053708 seconds 
-  Import took 0,055865 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000163 seconds.
-  path: Assets/FBX/Wood Wall Slits Var02_metallic.jpeg
-  artifactKey: Guid(d5ab82ffdcf382747bc78dc1a3125f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Wood Wall Slits Var02_metallic.jpeg using Guid(d5ab82ffdcf382747bc78dc1a3125f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90872bc480c06882aec236c69e1476d1') in 0,045613 seconds 
-  Import took 0,048080 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000187 seconds.
-  path: Assets/FBX/woodplanks4K roughness.jpg
-  artifactKey: Guid(90d66ebb5244721a0b2492d27e4ca659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/woodplanks4K roughness.jpg using Guid(90d66ebb5244721a0b2492d27e4ca659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a31563298faac9f3bd2218ddd54cf9') in 0,047765 seconds 
-  Import took 0,049985 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000184 seconds.
-  path: Assets/FBX/GWC Gilted Boxing Material_Normal.jpg
-  artifactKey: Guid(cd16fb3975a9a6cefb81c6b3ef891f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/GWC Gilted Boxing Material_Normal.jpg using Guid(cd16fb3975a9a6cefb81c6b3ef891f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab24911c55ff86b700c6deda3720db9') in 0,046529 seconds 
-  Import took 0,048737 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000187 seconds.
-  path: Assets/FBX/Wood_Parquet_02_metallic.jpg
-  artifactKey: Guid(bc985bdb7ef156bb8b5f3846324f1dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Wood_Parquet_02_metallic.jpg using Guid(bc985bdb7ef156bb8b5f3846324f1dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5d7569ba430ac6c3920ee666ae7646') in 0,045537 seconds 
-  Import took 0,047797 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000183 seconds.
-  path: Assets/FBX/woodplanks4K diffuse.jpg
-  artifactKey: Guid(367cb3bd4c162384f8571633c2fe4567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/woodplanks4K diffuse.jpg using Guid(367cb3bd4c162384f8571633c2fe4567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89dac754df971afbbe3781cff5205810') in 0,047659 seconds 
-  Import took 0,049925 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000178 seconds.
-  path: Assets/FBX/GWC Gilted Boxing Material_Metallic.jpg
-  artifactKey: Guid(f41d632bfbbb772cba61267cad667079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/GWC Gilted Boxing Material_Metallic.jpg using Guid(f41d632bfbbb772cba61267cad667079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75410483eed2fc9fb53e0cc011680341') in 0,047366 seconds 
-  Import took 0,049773 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,002265 seconds.
-  path: Assets/FBX/GWC Gilted Boxing Material_Metallic.jpg
-  artifactKey: Guid(f41d632bfbbb772cba61267cad667079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/GWC Gilted Boxing Material_Metallic.jpg using Guid(f41d632bfbbb772cba61267cad667079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75410483eed2fc9fb53e0cc011680341') in 0,046608 seconds 
-  Import took 0,048962 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 56,520075 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf99b289ac947d3c8eabd6e621ccc07') in 0,036921 seconds 
-  Import took 0,039444 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18,964072 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f7a408c1765f5f27c99a42ddde82ed6') in 0,214383 seconds 
-  Import took 0,217512 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15,975994 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24b5591b29c460ecca828581024e328') in 0,210101 seconds 
-  Import took 0,213542 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,002903 seconds.
-  path: Assets/FBX/mesaTabuleiro.fbx
-  artifactKey: Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/mesaTabuleiro.fbx using Guid(0a8930527578be5e9934a4c1c29d4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24b5591b29c460ecca828581024e328') in 0,200306 seconds 
-  Import took 0,203892 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 49,249940 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ecae3b25fbe335b5ae5be0324d7e4b1') in 0,151680 seconds 
-  Import took 0,154901 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 28,372425 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cde9a3039c491a71e9af6fe52124e14d') in 0,118061 seconds 
-  Import took 0,121623 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1,111619 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e84a91175f61ded5859c7e1ec8ae8c4') in 0,117458 seconds 
-  Import took 0,120806 seconds .
+  Time since last request: 250,635255 seconds.
+  path: Assets/Scripts/RotatePrefab.cs
+  artifactKey: Guid(8f7d15c7b72e38482a3ed741d08253ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RotatePrefab.cs using Guid(8f7d15c7b72e38482a3ed741d08253ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d0e9155ce88d99e66d21de18efb727b') in 0,003267 seconds 
+  Import took 0,006113 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0,001724 seconds.
+Registered in 0,001824 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0,36 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0,807 seconds
+- Completed reload, in  0,796 seconds
 Platform modules already initialized, skipping
 Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0,33 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 75,0 MB.
-System memory in use after: 75,0 MB.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74,1 MB.
+System memory in use after: 74,1 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2324.
-Total: 2,451901 ms (FindLiveObjects: 0,158348 ms CreateObjectMapping: 0,053205 ms MarkObjects: 2,150401 ms  DeleteObjects: 0,088930 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 2,765644 ms (FindLiveObjects: 0,198997 ms CreateObjectMapping: 0,069483 ms MarkObjects: 2,412207 ms  DeleteObjects: 0,084085 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1143,6 +331,34 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 239,624011 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ca5bc58824162636f5a6a4047b93dd') in 0,290070 seconds 
+  Import took 0,293200 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,0 MB.
+System memory in use after: 38,0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 3,157414 ms (FindLiveObjects: 0,170300 ms CreateObjectMapping: 0,062422 ms MarkObjects: 2,851537 ms  DeleteObjects: 0,072323 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
@@ -1150,39 +366,11 @@ Received Prepare
 Refreshing native plugins compatible for Editor in 2,10 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,8 MB.
-System memory in use after: 38,8 MB.
+System memory in use before: 38,0 MB.
+System memory in use after: 38,0 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2324.
-Total: 2,856889 ms (FindLiveObjects: 0,173593 ms CreateObjectMapping: 0,056927 ms MarkObjects: 2,510718 ms  DeleteObjects: 0,114338 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 257,610888 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9252fcfd2786a2f1046848001078934d') in 0,152124 seconds 
-  Import took 0,154820 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2,06 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,8 MB.
-System memory in use after: 38,9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2325.
-Total: 2,865900 ms (FindLiveObjects: 0,180162 ms CreateObjectMapping: 0,058032 ms MarkObjects: 2,545877 ms  DeleteObjects: 0,080895 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 2,945313 ms (FindLiveObjects: 0,241042 ms CreateObjectMapping: 0,079786 ms MarkObjects: 2,557451 ms  DeleteObjects: 0,066263 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1191,257 +379,29 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 196,830063 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebfa28efd5658a61195e5953c2f74d4b') in 0,114773 seconds 
-  Import took 0,117565 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 1,99 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,9 MB.
-System memory in use after: 38,9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2325.
-Total: 3,179327 ms (FindLiveObjects: 0,170693 ms CreateObjectMapping: 0,055618 ms MarkObjects: 2,804591 ms  DeleteObjects: 0,147620 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 100,608921 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e92089766ecd399ee7f97f7772564373') in 0,119560 seconds 
-  Import took 0,122563 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5,627046 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a00dd38fad3ca3fac48572849252e2') in 0,112415 seconds 
-  Import took 0,115066 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2,00 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,9 MB.
-System memory in use after: 38,9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2325.
-Total: 2,917332 ms (FindLiveObjects: 0,175736 ms CreateObjectMapping: 0,063175 ms MarkObjects: 2,590443 ms  DeleteObjects: 0,087082 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 118,341474 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1441137ed3d5d9edb83dda23eb1d9187') in 0,115437 seconds 
-  Import took 0,118229 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12,679954 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e814a70b06f65c83415879d9dfdae38') in 0,114313 seconds 
-  Import took 0,116942 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9,248479 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '023e24732bc54841fcf0daa3265aa204') in 0,116379 seconds 
-  Import took 0,119234 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3,925840 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681dc93fd55190db43b3f694ede6618d') in 0,115785 seconds 
-  Import took 0,118603 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2,318754 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc068d2a91b5a452ed198b9f85b63f7a') in 0,115682 seconds 
-  Import took 0,118555 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12,277726 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7cafc67df7a8c49643d76dd91da85c') in 0,116442 seconds 
-  Import took 0,119113 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 375,815461 seconds.
-  path: Assets/Scripts/RotatePrefab.cs
-  artifactKey: Guid(8f7d15c7b72e38482a3ed741d08253ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/RotatePrefab.cs using Guid(8f7d15c7b72e38482a3ed741d08253ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e141857df7f2c1bcd3ff4352b3e86e1') in 0,001012 seconds 
-  Import took 0,003361 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000436 seconds.
-  path: Assets/Scripts/RotatePrefab.cs
-  artifactKey: Guid(8f7d15c7b72e38482a3ed741d08253ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/RotatePrefab.cs using Guid(8f7d15c7b72e38482a3ed741d08253ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e141857df7f2c1bcd3ff4352b3e86e1') in 0,000896 seconds 
-  Import took 0,003074 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0,001896 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for LinuxStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0,811 seconds
-Platform modules already initialized, skipping
-Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0,34 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 75,0 MB.
-System memory in use after: 75,1 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2331.
-Total: 2,576444 ms (FindLiveObjects: 0,162399 ms CreateObjectMapping: 0,051012 ms MarkObjects: 2,269695 ms  DeleteObjects: 0,092111 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0,001921 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for LinuxStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0,41 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0,798 seconds
-Platform modules already initialized, skipping
-Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0,41 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 75,0 MB.
-System memory in use after: 75,1 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2335.
-Total: 2,927810 ms (FindLiveObjects: 0,199096 ms CreateObjectMapping: 0,110112 ms MarkObjects: 2,480425 ms  DeleteObjects: 0,136373 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2,03 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,9 MB.
-System memory in use after: 38,9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2335.
-Total: 2,955108 ms (FindLiveObjects: 0,219651 ms CreateObjectMapping: 0,094379 ms MarkObjects: 2,538840 ms  DeleteObjects: 0,101025 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 236,688102 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ff61c91862d229df4367bcae516529') in 0,166824 seconds 
-  Import took 0,171086 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,001850 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ff61c91862d229df4367bcae516529') in 0,117783 seconds 
-  Import took 0,120872 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0,001820 seconds.
+Registered in 0,001859 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0,36 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0,795 seconds
+- Completed reload, in  0,829 seconds
 Platform modules already initialized, skipping
 Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
 Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 75,1 MB.
-System memory in use after: 75,1 MB.
+System memory in use before: 74,1 MB.
+System memory in use after: 74,2 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2340.
-Total: 2,913228 ms (FindLiveObjects: 0,206170 ms CreateObjectMapping: 0,065550 ms MarkObjects: 2,502005 ms  DeleteObjects: 0,138342 ms)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 2,540177 ms (FindLiveObjects: 0,200955 ms CreateObjectMapping: 0,060424 ms MarkObjects: 2,193324 ms  DeleteObjects: 0,084439 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1455,14 +415,34 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 2,18 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2,09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,1 MB.
+System memory in use after: 38,1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2288.
+Total: 2,816476 ms (FindLiveObjects: 0,177481 ms CreateObjectMapping: 0,058035 ms MarkObjects: 2,488304 ms  DeleteObjects: 0,091226 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,40 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,9 MB.
-System memory in use after: 38,9 MB.
+System memory in use before: 38,0 MB.
+System memory in use after: 38,0 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2340.
-Total: 2,594039 ms (FindLiveObjects: 0,176062 ms CreateObjectMapping: 0,058287 ms MarkObjects: 2,261574 ms  DeleteObjects: 0,097044 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2288.
+Total: 2,666098 ms (FindLiveObjects: 0,181879 ms CreateObjectMapping: 0,060253 ms MarkObjects: 2,327882 ms  DeleteObjects: 0,095465 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1476,24 +456,24 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0,001920 seconds.
+Registered in 0,001864 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0,36 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0,823 seconds
+- Completed reload, in  0,806 seconds
 Platform modules already initialized, skipping
 Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0,34 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 75,1 MB.
-System memory in use after: 75,1 MB.
+System memory in use before: 74,2 MB.
+System memory in use after: 74,2 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2344.
-Total: 2,642611 ms (FindLiveObjects: 0,252622 ms CreateObjectMapping: 0,076819 ms MarkObjects: 2,228634 ms  DeleteObjects: 0,083623 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 2,575544 ms (FindLiveObjects: 0,176713 ms CreateObjectMapping: 0,057010 ms MarkObjects: 2,233362 ms  DeleteObjects: 0,107485 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1507,14 +487,14 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 2,25 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2,12 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,9 MB.
-System memory in use after: 38,9 MB.
+System memory in use before: 38,0 MB.
+System memory in use after: 38,0 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2344.
-Total: 2,558226 ms (FindLiveObjects: 0,225689 ms CreateObjectMapping: 0,115424 ms MarkObjects: 2,116499 ms  DeleteObjects: 0,099806 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 2,437136 ms (FindLiveObjects: 0,216729 ms CreateObjectMapping: 0,076952 ms MarkObjects: 2,058158 ms  DeleteObjects: 0,084461 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1525,6 +505,22 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 783,971850 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547597362c9db0372db575a55dcd24d8') in 0,152346 seconds 
+  Import took 0,155054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000100 seconds.
+  path: Assets/Prefab/mesaTabuleiro.prefab
+  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59b2514ac3f8e47570b2def3be2b14c') in 0,115341 seconds 
+  Import took 0,117661 seconds .
+
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
@@ -1535,17 +531,17 @@ Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0,36 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0,832 seconds
+- Completed reload, in  0,810 seconds
 Platform modules already initialized, skipping
 Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0,34 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0,53 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 75,1 MB.
-System memory in use after: 75,1 MB.
+System memory in use before: 74,2 MB.
+System memory in use after: 74,2 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2348.
-Total: 2,827506 ms (FindLiveObjects: 0,262272 ms CreateObjectMapping: 0,082875 ms MarkObjects: 2,363607 ms  DeleteObjects: 0,117365 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2297.
+Total: 2,547425 ms (FindLiveObjects: 0,197013 ms CreateObjectMapping: 0,094875 ms MarkObjects: 2,176967 ms  DeleteObjects: 0,077778 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1558,62 +554,42 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2,19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 38,9 MB.
-System memory in use after: 38,9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2348.
-Total: 2,800018 ms (FindLiveObjects: 0,252650 ms CreateObjectMapping: 0,101997 ms MarkObjects: 2,297488 ms  DeleteObjects: 0,146826 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
 Received Import Request.
-  Time since last request: 754,017665 seconds.
+  Time since last request: 58,198667 seconds.
   path: Assets/Prefab/mesaTabuleiro.prefab
   artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5dc6c8c88501fe6e5e38e58b7d6d5d') in 0,155285 seconds 
-  Import took 0,158290 seconds .
+Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96ee62de806bb5f9c7b60bb3785780f') in 0,160022 seconds 
+  Import took 0,163033 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000162 seconds.
-  path: Assets/Prefab/ImagemReferencia.asset
-  artifactKey: Guid(bd7791f02d7f5eba3875456828723f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/ImagemReferencia.asset using Guid(bd7791f02d7f5eba3875456828723f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf3ef7a42258b1c1292db1c8bc1ece5') in 0,057509 seconds 
-  Import took 0,060339 seconds .
+  Time since last request: 0,000101 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef87b20851026bf04b1732229497448') in 0,122362 seconds 
+  Import took 0,125315 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0,001861 seconds.
+Registered in 0,001808 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0,832 seconds
+- Completed reload, in  0,850 seconds
 Platform modules already initialized, skipping
 Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
 Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 75,1 MB.
-System memory in use after: 75,1 MB.
+System memory in use before: 74,2 MB.
+System memory in use after: 74,2 MB.
 
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2352.
-Total: 2,731685 ms (FindLiveObjects: 0,226074 ms CreateObjectMapping: 0,105273 ms MarkObjects: 2,315353 ms  DeleteObjects: 0,084115 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2302.
+Total: 2,493711 ms (FindLiveObjects: 0,208960 ms CreateObjectMapping: 0,074800 ms MarkObjects: 2,127513 ms  DeleteObjects: 0,081625 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1627,14 +603,378 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 2,00 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2,37 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 39,0 MB.
-System memory in use after: 39,0 MB.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,0 MB.
+System memory in use after: 38,0 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2353.
-Total: 2,660829 ms (FindLiveObjects: 0,246044 ms CreateObjectMapping: 0,067442 ms MarkObjects: 2,267329 ms  DeleteObjects: 0,079284 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2302.
+Total: 2,820789 ms (FindLiveObjects: 0,163237 ms CreateObjectMapping: 0,049863 ms MarkObjects: 2,518919 ms  DeleteObjects: 0,087853 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,001763 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0,42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,825 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0,51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74,2 MB.
+System memory in use after: 74,2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 4,173104 ms (FindLiveObjects: 0,219485 ms CreateObjectMapping: 0,066184 ms MarkObjects: 3,784504 ms  DeleteObjects: 0,101693 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,0 MB.
+System memory in use after: 38,1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 2,345672 ms (FindLiveObjects: 0,187191 ms CreateObjectMapping: 0,059513 ms MarkObjects: 2,029286 ms  DeleteObjects: 0,069074 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,001909 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0,38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,873 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74,2 MB.
+System memory in use after: 74,2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2310.
+Total: 2,542045 ms (FindLiveObjects: 0,181615 ms CreateObjectMapping: 0,141441 ms MarkObjects: 2,135784 ms  DeleteObjects: 0,082482 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,0 MB.
+System memory in use after: 38,1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2310.
+Total: 3,271253 ms (FindLiveObjects: 0,276855 ms CreateObjectMapping: 0,075047 ms MarkObjects: 2,733115 ms  DeleteObjects: 0,184785 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,002034 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0,36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,837 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0,40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74,2 MB.
+System memory in use after: 74,2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2314.
+Total: 3,837102 ms (FindLiveObjects: 0,422728 ms CreateObjectMapping: 0,146034 ms MarkObjects: 3,165626 ms  DeleteObjects: 0,101140 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,0 MB.
+System memory in use after: 38,1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2314.
+Total: 2,745492 ms (FindLiveObjects: 0,195092 ms CreateObjectMapping: 0,071802 ms MarkObjects: 2,389730 ms  DeleteObjects: 0,088142 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,001774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,829 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0,34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74,2 MB.
+System memory in use after: 74,2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2318.
+Total: 2,876102 ms (FindLiveObjects: 0,265244 ms CreateObjectMapping: 0,069037 ms MarkObjects: 2,457218 ms  DeleteObjects: 0,083745 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,0 MB.
+System memory in use after: 38,1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2318.
+Total: 2,963102 ms (FindLiveObjects: 0,255981 ms CreateObjectMapping: 0,068894 ms MarkObjects: 2,525858 ms  DeleteObjects: 0,111243 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,001784 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0,49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,837 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74,2 MB.
+System memory in use after: 74,2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2322.
+Total: 2,745857 ms (FindLiveObjects: 0,225125 ms CreateObjectMapping: 0,063358 ms MarkObjects: 2,369174 ms  DeleteObjects: 0,087242 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,0 MB.
+System memory in use after: 38,1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2322.
+Total: 2,553648 ms (FindLiveObjects: 0,216407 ms CreateObjectMapping: 0,075025 ms MarkObjects: 2,179665 ms  DeleteObjects: 0,081890 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,001775 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0,37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,844 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74,2 MB.
+System memory in use after: 74,3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 2,609414 ms (FindLiveObjects: 0,235056 ms CreateObjectMapping: 0,101446 ms MarkObjects: 2,179381 ms  DeleteObjects: 0,092799 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,0 MB.
+System memory in use after: 38,1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 3,807044 ms (FindLiveObjects: 0,331482 ms CreateObjectMapping: 0,123091 ms MarkObjects: 3,160341 ms  DeleteObjects: 0,190755 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,001879 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0,38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,842 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0,36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74,2 MB.
+System memory in use after: 74,3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 2,874915 ms (FindLiveObjects: 0,206896 ms CreateObjectMapping: 0,060973 ms MarkObjects: 2,516477 ms  DeleteObjects: 0,089557 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,1 MB.
+System memory in use after: 38,1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 2,743608 ms (FindLiveObjects: 0,228599 ms CreateObjectMapping: 0,064170 ms MarkObjects: 2,369492 ms  DeleteObjects: 0,080825 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1647,126 +987,74 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 181,549572 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c342e0e22f711e53354b582a6cbea51') in 0,149264 seconds 
-  Import took 0,152371 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1,680362 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc75e7b51f5446ef9af788d477001f9') in 0,115210 seconds 
-  Import took 0,118062 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2,994319 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a30ad2937e6b21f3c768e8d9562ff5') in 0,114164 seconds 
-  Import took 0,116857 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1,336862 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de6386897da97a66abeef66b7bdf243') in 0,114440 seconds 
-  Import took 0,117037 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2,348902 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cb4e822756eace73d20091a909f068b') in 0,117062 seconds 
-  Import took 0,119914 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14,366153 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91c98d91e44795945831224c4f2683b') in 0,114036 seconds 
-  Import took 0,117157 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,001537 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91c98d91e44795945831224c4f2683b') in 0,115922 seconds 
-  Import took 0,118911 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4,034250 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c97df7fdda3a345abda0578e17bf5a3') in 0,123549 seconds 
-  Import took 0,126466 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5,863890 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb57051c6c2a867aabdda6777f973182') in 0,113417 seconds 
-  Import took 0,116178 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3,577998 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9bbc8e0469391165b93cbe1a62e344f') in 0,115358 seconds 
-  Import took 0,118258 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5,160961 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2db97df9336063f27f7b269b41e67bb0') in 0,117210 seconds 
-  Import took 0,120140 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8,022316 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5b3ec25e324c6fc36edcad764fc737') in 0,116439 seconds 
-  Import took 0,119534 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3,011164 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed58379d5c63cf18ff1f638b47bbfcb7') in 0,112515 seconds 
-  Import took 0,115363 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 68,394784 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3ac8d7de211fd091516c36c9df21f9') in 0,114578 seconds 
-  Import took 0,118021 seconds .
+  Time since last request: 2408,765958 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b544d9f4c14376cffeed361baeccc1f') in 0,162971 seconds 
+  Import took 0,165772 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 2,08 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2,22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 39,0 MB.
-System memory in use after: 39,1 MB.
+System memory in use before: 38,1 MB.
+System memory in use after: 38,2 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2354.
-Total: 3,168136 ms (FindLiveObjects: 0,205249 ms CreateObjectMapping: 0,064988 ms MarkObjects: 2,805607 ms  DeleteObjects: 0,091420 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2331.
+Total: 4,793561 ms (FindLiveObjects: 0,223232 ms CreateObjectMapping: 0,070349 ms MarkObjects: 4,333714 ms  DeleteObjects: 0,164699 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,001876 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0,44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,880 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0,41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74,2 MB.
+System memory in use after: 74,3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 2,479834 ms (FindLiveObjects: 0,181120 ms CreateObjectMapping: 0,062435 ms MarkObjects: 2,145895 ms  DeleteObjects: 0,089484 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2,74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38,1 MB.
+System memory in use after: 38,1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 2,732665 ms (FindLiveObjects: 0,278098 ms CreateObjectMapping: 0,076458 ms MarkObjects: 2,286563 ms  DeleteObjects: 0,090829 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1779,38 +1067,38 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 247,101715 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3145336beda4560d948e7b9e430cf7ab') in 0,119879 seconds 
-  Import took 0,122841 seconds .
+  Time since last request: 191,940829 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '812f7d38abed51dae7d1b02d83a81793') in 0,160969 seconds 
+  Import took 0,164213 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 11,797883 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42c7e6de81fee6647ecbac45cfbd580') in 0,118508 seconds 
-  Import took 0,121783 seconds .
+  Time since last request: 2,914676 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a8c8a93ccd12b46730b6bc0f6785e8f') in 0,117166 seconds 
+  Import took 0,120065 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3,513193 seconds.
-  path: Assets/Prefab/mesaTabuleiro.prefab
-  artifactKey: Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/mesaTabuleiro.prefab using Guid(02140ee6db856e2ff965d7976a8103fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e072ef966fbb3f8dce5e56c13602d00c') in 0,115685 seconds 
-  Import took 0,118654 seconds .
+  Time since last request: 7,079864 seconds.
+  path: Assets/Prefab/ControlerMesa.prefab
+  artifactKey: Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ControlerMesa.prefab using Guid(576ab8029a83d556f9fbfbcb4cfb7d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '671fda4ce939e9859c96c27f1a26d02b') in 0,116504 seconds 
+  Import took 0,119394 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 2,38 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2,27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 39,1 MB.
-System memory in use after: 39,2 MB.
+System memory in use before: 38,1 MB.
+System memory in use after: 38,2 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2354.
-Total: 3,329757 ms (FindLiveObjects: 0,232885 ms CreateObjectMapping: 0,063648 ms MarkObjects: 2,947848 ms  DeleteObjects: 0,084422 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2336.
+Total: 3,210667 ms (FindLiveObjects: 0,223853 ms CreateObjectMapping: 0,068556 ms MarkObjects: 2,824393 ms  DeleteObjects: 0,092913 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1821,4 +1109,3 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
